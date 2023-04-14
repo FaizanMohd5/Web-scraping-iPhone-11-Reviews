@@ -40,8 +40,6 @@ Install the required Python libraries using pip: pip install -r requirements.txt
 
 To use this project, run the Jupyter Notebook file web_scraping_flipkart.ipynb and follow the instructions in the comments.
 
-The extracted reviews will be stored in a CSV file in the ScrapedFiles directory.
-
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
